@@ -29,3 +29,14 @@
     
     align-items: center;
 }
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.pie_pagina{
+    background-color: aliceblue;
+    width: auto;
+    height: 100%;
+    display: flex;
+}
