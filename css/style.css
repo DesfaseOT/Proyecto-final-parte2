@@ -31,7 +31,7 @@
 }
 
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(193, 251, 255);
 }
 
 .pie_pagina{
@@ -39,4 +39,6 @@ body{
     width: auto;
     height: 100%;
     display: flex;
+    
 }
+
